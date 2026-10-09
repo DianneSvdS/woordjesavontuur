@@ -1,8 +1,2 @@
 # Woordjesavontuur
-
-PWA om woorden, betekenissen en dictee te oefenen.
-
-## GitHub Pages
-1. Upload alle bestanden naar de hoofdmap van de repository `woordjesavontuur`.
-2. Kies bij Settings > Pages als Source: GitHub Actions.
-3. Als de repository anders heet, wijzig `base` in `vite.config.js`.
+Klik in de app op **Importeren**. Plak per regel `woord[TAB]betekenis`, of kies een CSV-, TSV- of TXT-bestand. Geïmporteerde tekst wordt ongewijzigd opgeslagen in de browser.
