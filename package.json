@@ -1,18 +1,15 @@
 {
   "name": "woordjesavontuur",
   "private": true,
-  "version": "4.0.0",
+  "version": "5.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
+  "scripts": {"dev": "vite", "build": "vite build", "preview": "vite preview"},
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "vite-plugin-pwa": "latest",
+    "pdfjs-dist": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "pdfjs-dist": "latest"
+    "vite": "latest",
+    "vite-plugin-pwa": "latest"
   }
 }

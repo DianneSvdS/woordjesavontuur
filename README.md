@@ -1,2 +1,3 @@
 # Woordjesavontuur
-Klik in de app op **Importeren**. Plak per regel `woord[TAB]betekenis`, of kies een CSV-, TSV- of TXT-bestand. Geïmporteerde tekst wordt ongewijzigd opgeslagen in de browser.
+
+PDF-import koppelt tekst in het linkervak uitsluitend aan tekst in het direct aangrenzende rechtervak binnen dezelfde horizontale kaartband. Lijsten worden automatisch lokaal bewaard. Gebruik Backup opslaan voor een extra JSON-backup.
